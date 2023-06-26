@@ -9,7 +9,7 @@ const API_URL = 'http://www.omdbapi.com/?i=tt3896198';
 const movie1 = {
         "Title": "The Amazing Spiderman 2 Webb Cut",
         "Year": "2021",
-        "imdbID": "tt18351128",
+        "imdbID": "tt3896198",
         "Type": "movie",
         "Poster": "https://m.media-amazon.com/images/M/MV5BYzYzZDViNWYtNWViMS00NDMxLThlN2YtZjFkOWMwODkzNzhiXkEyXkFqcGdeQXVyMTUwMzM4NzU0._V1_SX300.jpg"
 }
